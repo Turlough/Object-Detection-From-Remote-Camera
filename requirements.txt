@@ -11,7 +11,7 @@ Markdown==3.0.1
 matplotlib==3.0.2
 mock==2.0.0
 numpy==1.16.1
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 pbr==5.1.2
 Pillow==9.0.1
 protobuf==3.6.1
